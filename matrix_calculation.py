@@ -70,5 +70,3 @@ if __name__ == "__main__":
     # print(f"Результат перемножения матриц\n{matrix_3*matrix_4}")
     # print(matrix_1 == matrix_2)
 
-
-print('Добавил еще строки кода для коммита') 
